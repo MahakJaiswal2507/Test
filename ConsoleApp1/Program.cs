@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 public class Person{
-    public string name = "lakshay";
+    public string name = "mahak";
     public int age = 20;
     public string gender = "Male";
     public int id = 0;
